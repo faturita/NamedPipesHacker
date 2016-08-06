@@ -1,5 +1,0 @@
-C:\work\NamedPipesHacker\obj\Debug\ResolveAssemblyReference.cache
-C:\work\NamedPipesHacker\bin\Debug\NamedPipesHacker.exe
-C:\work\NamedPipesHacker\bin\Debug\NamedPipesHacker.pdb
-C:\work\NamedPipesHacker\obj\Debug\NamedPipesHacker.exe
-C:\work\NamedPipesHacker\obj\Debug\NamedPipesHacker.pdb
